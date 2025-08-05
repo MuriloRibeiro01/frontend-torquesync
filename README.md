@@ -40,7 +40,7 @@ Este projeto funciona de forma independente do backend e se comunica com ele atr
 
 ```bash
 # 1. Clone o repositório
-$ git clone [https://github.com/seu-usuario/torquesync-frontend.git](https://github.com/MuriloRibeiro01/torquesync-frontend.git)
+$ git clone [Servidor backend do TorqueSync](https://github.com/MuriloRibeiro01/torquesync-frontend.git)
 
 # 2. Navegue até o diretório do projeto
 $ cd torquesync-frontend
